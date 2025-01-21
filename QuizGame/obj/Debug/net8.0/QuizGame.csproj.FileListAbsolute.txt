@@ -1,0 +1,14 @@
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\QuizGame\bin\Debug\net8.0\QuizGame.exe
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\QuizGame\bin\Debug\net8.0\QuizGame.deps.json
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\QuizGame\bin\Debug\net8.0\QuizGame.runtimeconfig.json
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\QuizGame\bin\Debug\net8.0\QuizGame.dll
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\QuizGame\bin\Debug\net8.0\QuizGame.pdb
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\QuizGame\obj\Debug\net8.0\QuizGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\QuizGame\obj\Debug\net8.0\QuizGame.AssemblyInfoInputs.cache
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\QuizGame\obj\Debug\net8.0\QuizGame.AssemblyInfo.cs
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\QuizGame\obj\Debug\net8.0\QuizGame.csproj.CoreCompileInputs.cache
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\QuizGame\obj\Debug\net8.0\QuizGame.dll
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\QuizGame\obj\Debug\net8.0\refint\QuizGame.dll
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\QuizGame\obj\Debug\net8.0\QuizGame.pdb
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\QuizGame\obj\Debug\net8.0\QuizGame.genruntimeconfig.cache
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\QuizGame\obj\Debug\net8.0\ref\QuizGame.dll

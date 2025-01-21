@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\net\\iti Round 24-25\\OOP\\Excercise\\tasktrack\\ApplicationOnc#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C07560BB-68C9-4E46-A401-A1EC808DFF84}|Inventory Management System\\Inventory Management System.csproj|d:\\net\\iti round 24-25\\oop\\excercise\\tasktrack\\applicationonc#\\inventory management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07560BB-68C9-4E46-A401-A1EC808DFF84}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\net\\iti Round 24-25\\OOP\\Excercise\\tasktrack\\ApplicationOnc#\\Inventory Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Inventory Management System\\Program.cs",
+              "ToolTip": "D:\\net\\iti Round 24-25\\OOP\\Excercise\\tasktrack\\ApplicationOnc#\\Inventory Management System\\Program.cs*",
+              "RelativeToolTip": "Inventory Management System\\Program.cs*",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwGoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:19:54.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

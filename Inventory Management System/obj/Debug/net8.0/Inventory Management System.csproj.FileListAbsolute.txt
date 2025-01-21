@@ -1,0 +1,14 @@
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\Inventory Management System\bin\Debug\net8.0\Inventory Management System.exe
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\Inventory Management System\bin\Debug\net8.0\Inventory Management System.deps.json
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\Inventory Management System\bin\Debug\net8.0\Inventory Management System.runtimeconfig.json
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\Inventory Management System\bin\Debug\net8.0\Inventory Management System.dll
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\Inventory Management System\bin\Debug\net8.0\Inventory Management System.pdb
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\Inventory Management System\obj\Debug\net8.0\Inventory Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\Inventory Management System\obj\Debug\net8.0\Inventory Management System.AssemblyInfoInputs.cache
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\Inventory Management System\obj\Debug\net8.0\Inventory Management System.AssemblyInfo.cs
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\Inventory Management System\obj\Debug\net8.0\Inventory Management System.csproj.CoreCompileInputs.cache
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\Inventory Management System\obj\Debug\net8.0\Inventory Management System.dll
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\Inventory Management System\obj\Debug\net8.0\refint\Inventory Management System.dll
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\Inventory Management System\obj\Debug\net8.0\Inventory Management System.pdb
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\Inventory Management System\obj\Debug\net8.0\Inventory Management System.genruntimeconfig.cache
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\Inventory Management System\obj\Debug\net8.0\ref\Inventory Management System.dll

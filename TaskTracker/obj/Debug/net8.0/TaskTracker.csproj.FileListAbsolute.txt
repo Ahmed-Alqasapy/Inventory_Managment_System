@@ -1,0 +1,14 @@
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\TaskTracker\bin\Debug\net8.0\TaskTracker.exe
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\TaskTracker\bin\Debug\net8.0\TaskTracker.deps.json
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\TaskTracker\bin\Debug\net8.0\TaskTracker.runtimeconfig.json
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\TaskTracker\bin\Debug\net8.0\TaskTracker.dll
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\TaskTracker\bin\Debug\net8.0\TaskTracker.pdb
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\TaskTracker\obj\Debug\net8.0\TaskTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\TaskTracker\obj\Debug\net8.0\TaskTracker.AssemblyInfoInputs.cache
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\TaskTracker\obj\Debug\net8.0\TaskTracker.AssemblyInfo.cs
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\TaskTracker\obj\Debug\net8.0\TaskTracker.csproj.CoreCompileInputs.cache
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\TaskTracker\obj\Debug\net8.0\TaskTracker.dll
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\TaskTracker\obj\Debug\net8.0\refint\TaskTracker.dll
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\TaskTracker\obj\Debug\net8.0\TaskTracker.pdb
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\TaskTracker\obj\Debug\net8.0\TaskTracker.genruntimeconfig.cache
+D:\net\iti Round 24-25\OOP\Excercise\tasktrack\ApplicationOnc#\TaskTracker\obj\Debug\net8.0\ref\TaskTracker.dll
